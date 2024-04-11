@@ -449,17 +449,17 @@ smd(
   async (_0x230c03, _0x3b568a) => {
     try {
       let _0x365550 =
-        "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬SUHAIL-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " +
+        "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬XHRISS-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " +
         (_0x3b568a
           ? "```🔢Reply the number you wants to select``` \n\n"
           : "```\t\t" +
             prefix +
-            "fancy Suhail(For all text)\n\t\t" +
+            "fancy Xhriss(For all text)\n\t\t" +
             prefix +
-            "fancy 25 Suhail(For specific text)```\n\n");
+            "fancy 25 Xhriss(For specific text)```\n\n");
       let _0x50c7d9 = parseInt(_0x3b568a);
       if (isNaN(_0x50c7d9)) {
-        let _0x4ca942 = _0x3b568a ? _0x3b568a : "Suhail";
+        let _0x4ca942 = _0x3b568a ? _0x3b568a : "Xhriss";
         listall(_0x4ca942).forEach((_0x51f58f, _0x2be109) => {
           _0x365550 += "\n" + (_0x2be109 += 1) + " " + _0x51f58f + "\n";
         });
@@ -502,12 +502,12 @@ smd(
             prefix +
             "styly Xhriss(For all text)\n\t\t" +
             prefix +
-            "styly 19 Suhail(For specific text)```\n\n");
+            "styly 19 Xhriss(For specific text)```\n\n");
       let { styletext: _0x515724 } = require("../lib/scraper");
       let _0x2b12c6 = _0x48c907 ? parseInt(_0x48c907) : "";
       _0x48c907 =
         _0x2b12c6 && !isNaN(_0x2b12c6) ? _0x48c907.slice(2) : _0x48c907;
-      let _0x3743f7 = (await _0x515724(_0x48c907 ? _0x48c907 : "Suhail")) || [];
+      let _0x3743f7 = (await _0x515724(_0x48c907 ? _0x48c907 : "Xhriss")) || [];
       if (!_0x3743f7 || !_0x3743f7[0]) {
         return await _0xbd587f.send("*_No Results Found!_*");
       }
@@ -577,7 +577,7 @@ smd(
       let _0xd51ec = _0x4cb7aa ? _0x4cb7aa : _0x4cfc4e.reply_text;
       if (!_0xd51ec) {
         return _0x4cfc4e.reply(
-          "*_Example : " + prefix + "fliptext Suhail MD!_*"
+          "*_Example : " + prefix + "fliptext Xhriss MD!_*"
         );
       }
       let _0x5c7a34 = _0xd51ec.split("").reverse().join("");
