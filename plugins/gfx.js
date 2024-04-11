@@ -355,7 +355,7 @@ smd(
           gfxx.join(" \n⬡│▸ ") +
           "\n┬│▸\n│╰────────────···▸▸\n└───────────────···▸\n\n\t *USE: " +
           (prefix + _0x123e7d) +
-          " Asta:Md*\n_To get All Results with single Cmd!_\n";
+          " Xhrss:Md*\n_To get All Results with single Cmd!_\n";
         return await _0x1f82ce.sendUi(_0x1f82ce.chat, {
           caption: _0x4a015,
         });
