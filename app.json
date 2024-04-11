@@ -1,13 +1,13 @@
 {
-  "name": "asta-md",
+  "name": "xhriss-md",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/ZkBjWK2.jpg",
+  "logo": "https://telegra.ph/file/2912dd1d0665285ffc931.jpg",
   "keywords": "Asta-Md",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Astro",
+      "value": "MrXhriss",
       "required" :true
     },   
     "HEROKU_API_KEY": {
@@ -23,7 +23,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝘼𝙎𝙏𝘼 𝙈𝘿"
+      "value": "Xhriss_Md"
     }, 
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
@@ -31,7 +31,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348039607375"
+      "value": "255688950205"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -45,7 +45,7 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://i.imgur.com/DoPFyzc.jpg,https://i.imgur.com/YgdZA3l.jpg,https://i.imgur.com/K4IEW12.jpg,https://i.imgur.com/q5MAdYt.jpg,https://i.imgur.com/z20pSwu.jpg,https://i.imgur.com/Xp1b2vG.jpg,https://i.imgur.com/OQOH4Gn.jpeg,https://i.imgur.com/lIo3cM2.jpeg"
+      "value": "https://telegra.ph/file/2912dd1d0665285ffc931.jpg,https://telegra.ph/file/2912dd1d0665285ffc931.jpg,https://telegra.ph/file/2912dd1d0665285ffc931.jpg,https://telegra.ph/file/2912dd1d0665285ffc931.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -109,7 +109,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝘼𝙎𝙏𝘼 𝙈𝘿",
+      "value": "MrXhriss",
       "required": false 
     },
     "PACK_AUTHER": {
@@ -119,7 +119,7 @@
     },
     "STACK": {
       "description": "STACK NAME ",
-      "value": "",
+      "value": "MrXhriss",
       "required": false 
     },
     "GOODBYE": {
