@@ -590,7 +590,7 @@ cmd(
       let _0x86453 = {
         key: _0x17ffa2.key,
         message: {
-          conversation: "```[VIEWONCE FOUND DOWNLOAD 100%]```",
+          conversation: "```[MrXhriss_Md]```",
         },
       };
       let _0x22f0a2 = await _0x5e331d.bot.downloadAndSaveMediaMessage(
