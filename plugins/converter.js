@@ -495,12 +495,12 @@ smd(
     try {
       let _0x48c907 = _0x53c116.trim();
       let _0x5cfa86 =
-        "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬SUHAIL-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " +
+        "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬XHRISS-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " +
         (_0x48c907
           ? "```🔢Reply the number you wants to select``` \n\n"
           : "```\t\t" +
             prefix +
-            "styly Suhail(For all text)\n\t\t" +
+            "styly Xhriss(For all text)\n\t\t" +
             prefix +
             "styly 19 Suhail(For specific text)```\n\n");
       let { styletext: _0x515724 } = require("../lib/scraper");
