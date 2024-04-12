@@ -18,7 +18,7 @@ global.website = process.env.GURL || "https://whatsapp.com/channel/0029VPGt3QEwE
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/2912dd1d0665285ffc931.jpg";
 global.devs = "255688930205";
 global.sudo = process.env.SUDO || "255688930205";
-global.owner = process.env.OWNER_NUMBER || "255688930205";
+global.owner = process.env.OWNER_NUMBER || "255615495137";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,11 +48,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || "",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©MrXhriss",
-  author: process.env.PACK_AUTHER || "Xhriss_Md",
-  packname: process.env.PACK_NAME || "Xhriss ♥️",
-  botname: process.env.BOT_NAME || "Xhriss_Md",
-  ownername: process.env.OWNER_NAME || "Xhriss_Md",
+  caption: process.env.CAPTION || "©MrMOALLY",
+  author: process.env.PACK_AUTHER || "MOALLY_Md",
+  packname: process.env.PACK_NAME || "MOALLY ♥️",
+  botname: process.env.BOT_NAME || "MOALLY",
+  ownername: process.env.OWNER_NAME || "MOALLY_Md",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "XHRISS").toUpperCase(),
+  LANG: (process.env.THEME || "MOALLY").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
